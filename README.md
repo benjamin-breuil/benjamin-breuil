@@ -15,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjamin-breuil&show_icons=true&locale=en&layout=compact" alt="benjamin-breuil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benjamin-breuil&show_icons=true&locale=en" alt="benjamin-breuil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benjamin-breuil&" alt="benjamin-breuil" /></p>
